@@ -59,7 +59,6 @@ equal to `currentUser` instead:
 
 ```js
 const currentUser = 'Grace Hopper';
-
 const welcomeMessage = currentUser;
 ```
 
