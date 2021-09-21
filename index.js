@@ -1,5 +1,5 @@
 const currentUser = "Chrissy";
-// if anything looks weird here, its because john was fucking with it 
+ 
 const punctuation = "!";
 
 const welcomeMessage = "Welcome to Flatbook, " + currentUser + punctuation;
